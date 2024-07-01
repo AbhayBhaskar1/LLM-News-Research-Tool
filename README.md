@@ -1,1 +1,1 @@
-# LLM-News-Research-Tool_
+# LLM-News-Research-Tool
